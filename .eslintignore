@@ -1,0 +1,8 @@
+.next/
+proxy_exports/**/*.js
+node_modules/*
+**/node_modules/*
+**/sls-next-build/**
+storybook-static/
+postcss.config.js
+tailwind.config.js
